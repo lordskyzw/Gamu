@@ -16,6 +16,8 @@ driver.find_element(By.TAG_NAME, 'form').submit()
 time.sleep(60)
 driver.find_element(By.XPATH, '//*[@id="react-root"]/section/main/div/div/div/div/button').click()
 time.sleep(60)
+#clicking the not now button for notifications
 driver.find_element(By.XPATH, '//*[@id="mount_0_0_MK"]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/button[2]').click()
 time.sleep(30)
-driver.find_element(By.XPATH, '//*[@id="react-root"]/section/nav/div[2]/div/div/div[2]/div[1]/div').send_keys('__nicholle')
+
+driver.find_element(By.XPATH, '//*[@id="mount_0_0_Zp"]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/button[2]').click()
