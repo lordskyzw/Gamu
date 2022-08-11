@@ -1,3 +1,5 @@
+from multiprocessing.dummy import freeze_support
+from unicodedata import name
 import undetected_chromedriver.v2 as uc 
 from time import sleep
 from selenium.webdriver.common.keys import Keys
@@ -11,3 +13,7 @@ driver.find_element(By.NAME, 'password').send_keys('Tarmica12580')
 driver.find_element(By.TAG_NAME, 'form').submit()
 sleep(60)   
 driver.find_element(By.XPATH, '//*[@id="react-root"]/section/main/div/div/div/div/button').click()
+
+
+if __name__ == '__main__':
+    freeze_support()
