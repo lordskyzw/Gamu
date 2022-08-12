@@ -1,10 +1,8 @@
-from ast import main
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import botparameters
 from botparameters import username, password, search_item
 
 
@@ -25,7 +23,7 @@ def search(search_term):
     driver.find_element(By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
     #clearing notifiation thingy
     driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/button[2]').click()
-    driver.find_element(By.NAME, 'search').send_keys(search_term)
+    driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/div/div/div[1]/div[1]/section/nav/div[2]/div/div/div[2]/input').send_keys(search_term)
     driver.find_element(By.NAME, 'search').send_keys(Keys.RETURN)
     time.sleep(10)
     return driver
