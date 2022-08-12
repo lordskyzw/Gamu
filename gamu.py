@@ -1,14 +1,18 @@
-from ast import main
+from os import system
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-import botparameters
 from botparameters import username, password, search_item
 
 
-driver = webdriver.Chrome(service=Service(r'C:\Users\im_bradley\Downloads\chromedriver_win32\chromedriver.exe'))
+system.setProperty('webdriver.chrome.driver', r'C:\Users\im_bradley\Downloads\chromedriver_win32\chromedriver.exe')
+ChromeOptions = webdriver.ChromeOptions()
+Options.add_argument('--headless')
+Options.add_argument('--no-sandbox')
+Options.add_argument('--disable-dev-shm-usage')
+driver = webdriver.Chrome(ChromeOptions)
 
 
 
