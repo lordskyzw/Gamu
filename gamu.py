@@ -5,6 +5,8 @@ import argparse
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 intro ='This is an Instagram bot built by Engineer Chiwara (@the.ip.boy.friend on Instagram). It goes to a targets recent post, goes through the people who liked it and follows them in hopes of them following back.'
 
@@ -87,16 +89,17 @@ Y5555555YJ?JYJYYYYJ?JJYYYYYYY5YYYYYYYY#&#&#&&&@@@@@@@@@@@@@@@@BP55Y???JJ55YY5B@@
 PPPPPPPPPP55Y5555P5555555YYYYYPGPP5PGPPG&&&&@@@@@@@@@@@@@@@@@@GYJJY55YJY5Y55PB&@@@@@@@@@#PP5PPPPGPPP
 5555Y5PPPPP5P55PP555555YYYY5YYPBGGP5P5Y5#&&&@@@@@@@@@@@@@@@&@@B5JJJ?JJ?J5555G#&@@@@@@@@&GPP5PPPPPPPP
 '''
-print(logo)
+#print(logo)
 options = Options()
-options.headless = True
-driver = webdriver.Chrome(options=options, service=Service(r'C:\Users\im_bradley\Downloads\chromedriver_win32\chromedriver.exe'))
+#options.headless = True
+driver = webdriver.Chrome(options=options, service=Service(r'C:\Users\im_bradley\Downloads\chromedriver_win32\chromedriver.exe'), port=51508)
 
 
 
 def login(username, password):
     driver.get('https://instagram.com')
-    driver.find_element(By.NAME, 'username').send_keys(username)
+    WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, 'username'))).send_keys(username)
+    
     driver.find_element(By.NAME, 'password').send_keys(password)
     driver.find_element(By.TAG_NAME, 'form').submit()
     time.sleep(30)   
@@ -106,8 +109,9 @@ def search(target):
     
     driver.find_element(By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
     #clearing notifiation thingy and searching
-    driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div/div/div/div[3]/button[2]').click()
+    WebDriverWait(driver, 25).until(EC.element_to_be_clickable((By.XPATH, '//button[text()="Not Now"]'))).click()
     driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/div/div/div[1]/div[1]/section/nav/div[2]/div/div/div[2]/input').send_keys(target)
+    WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.XPATH, '//div[text()=target]'))).click()
     time.sleep(10)
     return driver
     
