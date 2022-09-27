@@ -1,0 +1,10 @@
+1664294307655	geckodriver	INFO	Listening on 127.0.0.1:52077
+1664294310736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile8sQGzv"
+1664294311268	Marionette	INFO	Marionette enabled
+1664294311278	Marionette	INFO	Listening on port 52088
+Read port: 52088
+WebDriver BiDi listening on ws://127.0.0.1:52078
+1664294311485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile8sQGzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52078/devtools/browser/a1d913b9-77a4-488e-89ea-3de5acc789a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
