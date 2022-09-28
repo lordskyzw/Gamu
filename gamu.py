@@ -7,10 +7,10 @@ from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-intro = 'This is an Instagram bot built by Engineer Chiwara (@the.ip.boy.friend on Instagram). It goes to a targets recent post, goes through the people who liked it and follows them in hopes of them following back.'
+
 
 # defining parser object which takes arguments from command line
-parser = argparse.ArgumentParser(description=intro, usage='python gamu.py [target] [username] [password]', add_help=True)
+parser = argparse.ArgumentParser(usage='python gamu.py [target] [username] [password]', add_help=True)
 # adding arguments using the parser object
 parser.add_argument('target', help='target account')
 parser.add_argument('username', help='username of your account')
@@ -67,6 +67,8 @@ if __name__ == '__main__':
 
 
     '''
+    intro = 'This is an Instagram bot built by Engineer Chiwara (@the.ip.boy.friend on Instagram). It goes to a targets recent post, goes through the people who liked it and follows them in hopes of them following back.'
     print(logo)
+    print(intro)
     login(username, password)
     search(target)
