@@ -3,6 +3,7 @@ import argparse
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -22,7 +23,9 @@ username = args.username
 password = args.password
 
 # creating the mozilla driver object
-driver = webdriver.Firefox(executable_path=r'C:\Users\Lords\dexterslab\lab\geckodriver.exe')
+serv = Service(r'C:\Users\Lords\dexterslab\lab\geckodriver.exe')
+driver = webdriver.Firefox(service=serv)
+
 
 
 def login(username, password):
@@ -38,8 +41,8 @@ def login(username, password):
 
 def search(target):
 
-    driver.find_element(
-        By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
+    #driver.find_element(
+        #By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
     # clearing notifiation thingy and searching
     WebDriverWait(driver, 25).until(EC.element_to_be_clickable(
         (By.XPATH, '//button[text()="Not Now"]'))).click()

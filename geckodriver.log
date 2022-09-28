@@ -8,3 +8,108 @@ WebDriver BiDi listening on ws://127.0.0.1:52078
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile8sQGzv\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:52078/devtools/browser/a1d913b9-77a4-488e-89ea-3de5acc789a0
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1664352217179	geckodriver	INFO	Listening on 127.0.0.1:59423
+1664352220321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile31xY0E"
+1664352220945	Marionette	INFO	Marionette enabled
+1664352220956	Marionette	INFO	Listening on port 59433
+Read port: 59433
+WebDriver BiDi listening on ws://127.0.0.1:59424
+1664352221190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile31xY0E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59424/devtools/browser/3f489955-d112-4fd5-84b3-482ebaffc82f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/ya/l/en_US/wVO2-s69M2d.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1611:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:875:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:720:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:350:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:203:10\ninspectNode@resource://devtools/client/framework/devtools.js:798:25\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: ({})
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.warn: ({})
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php1664352384462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileHPiHwm"
+1664352385113	Marionette	INFO	Marionette enabled
+1664352385122	Marionette	INFO	Listening on port 59505
+Read port: 59505
+WebDriver BiDi listening on ws://127.0.0.1:59494
+1664352385436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664352471116	geckodriver	INFO	Listening on 127.0.0.1:59523
+1664352474176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiXAaTg"
+1664352474755	Marionette	INFO	Marionette enabled
+1664352474764	Marionette	INFO	Listening on port 59533
+Read port: 59533
+WebDriver BiDi listening on ws://127.0.0.1:59524
+1664352475011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiXAaTg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59524/devtools/browser/51899d87-ffa8-4ef1-95a2-a51297cab435
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664352569122	Marionette	INFO	Stopped listening on port 59533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664352587273	geckodriver	INFO	Listening on 127.0.0.1:59548
+1664352590313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilepOS8iJ"
+1664352590900	Marionette	INFO	Marionette enabled
+1664352590910	Marionette	INFO	Listening on port 59558
+Read port: 59558
+WebDriver BiDi listening on ws://127.0.0.1:59549
+1664352591118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilepOS8iJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59549/devtools/browser/995bac0a-30f2-4a54-abce-3272c2d6aee9
+1664352837221	Marionette	INFO	Stopped listening on port 59558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354709098	geckodriver	INFO	Listening on 127.0.0.1:57143
+1664354712186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem4NoWL"
+1664354713040	Marionette	INFO	Marionette enabled
+1664354713053	Marionette	INFO	Listening on port 57156
+Read port: 57156
+WebDriver BiDi listening on ws://127.0.0.1:57144
+1664354713326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem4NoWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57144/devtools/browser/5cbe527f-63a8-4c6b-969e-0b21cf0d0c14
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: https://www.instagram.com/, line 288: Error: Requiring unknown module "73".
+1664355454198	Marionette	INFO	Stopped listening on port 57156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664358781567	geckodriver	INFO	Listening on 127.0.0.1:52004
+1664358784687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileNlNJWi"
+1664358785315	Marionette	INFO	Marionette enabled
+1664358785328	Marionette	INFO	Listening on port 52014
+Read port: 52014
+WebDriver BiDi listening on ws://127.0.0.1:52005
+1664358785540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileNlNJWi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52005/devtools/browser/fdf40f51-0e28-4910-aa38-64ea81c1682c
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664359088203	geckodriver	INFO	Listening on 127.0.0.1:52177
+1664359091282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileIZ6cx5"
+1664359091852	Marionette	INFO	Marionette enabled
+1664359091862	Marionette	INFO	Listening on port 52187
+Read port: 52187
+WebDriver BiDi listening on ws://127.0.0.1:52178
+1664359092107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileIZ6cx5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52178/devtools/browser/5b04edde-69ad-430d-9103-c050b7cfc2e2
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664359114453	Marionette	INFO	Stopped listening on port 52187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
