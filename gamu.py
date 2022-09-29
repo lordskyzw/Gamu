@@ -25,8 +25,9 @@ password = args.password
 # creating the mozilla driver object
 serv = Service(r'C:\Users\Lords\dexterslab\lab\geckodriver.exe')
 driver = webdriver.Firefox(service=serv)
-
-
+def reload():
+        driver.back()
+        driver.forward()
 
 def login(username, password):
     driver.get('https://instagram.com')
@@ -35,9 +36,8 @@ def login(username, password):
 
     driver.find_element(By.NAME, 'password').send_keys(password)
     driver.find_element(By.TAG_NAME, 'form').submit()
-    time.sleep(30)
+    time.sleep(2)
     return driver
-
 
 def search(target):
 
@@ -46,10 +46,11 @@ def search(target):
     # clearing notifiation thingy and searching
     WebDriverWait(driver, 25).until(EC.element_to_be_clickable(
         (By.XPATH, '//button[text()="Not Now"]'))).click()
-    driver.find_element(
-        By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/div/div/div[1]/div[1]/section/nav/div[2]/div/div/div[2]/input').send_keys(target)
-    time.sleep(10)
-    WebDriverWait(driver, 15).until(driver.find_element(By.CSS_SELECTOR, '#mount_0_0_Ia > div > div > div > div.bdao358l.om3e55n1.g4tp4svg > div > div > div > div.alzwoclg.cqf1kptm.p1t2w4gn.fawcizw8.om3e55n1.g4tp4svg > div:nth-child(1) > section > nav > div._acc1._acc3 > div > div > div._aawf._aawg._aexm > div._abn- > div > div._aa61 > div > div._abn_ > a')).click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
+    time.sleep(3)
+    driver.find_element(By.LINK_TEXT, "Explore").click()
+    searchField = driver.find_element(By.CSS_SELECTOR, "._aauy")
     time.sleep(10)
     return driver
 
