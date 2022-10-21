@@ -49,8 +49,8 @@ def search(target):
     time.sleep(2)
     driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
     time.sleep(3)
-    driver.find_element(By.LINK_TEXT, "Explore").click()
-    searchField = driver.find_element(By.CSS_SELECTOR, "._aauy")
+    driver.find_element(By.CSS_SELECTOR, "[aria-label='Search input']").send_keys(target)
+    #searchField = driver.find_element(By.CSS_SELECTOR, "._aauy")
     time.sleep(10)
     return driver
 
