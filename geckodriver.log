@@ -1252,3 +1252,19 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/
 Read port: 63700
 WebDriver BiDi listening on ws://127.0.0.1:63682
 1666360094321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilewlIskz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63682/devtools/browser/9f911b1c-ee60-4227-8dd6-447a52d7c51a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
