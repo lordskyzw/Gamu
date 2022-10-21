@@ -50,10 +50,10 @@ def search(target):
     driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
     time.sleep(3)
     driver.find_element(By.CSS_SELECTOR, "[aria-label='Search input']").send_keys(target)
-    #searchField = driver.find_element(By.CSS_SELECTOR, "._aauy")
-    time.sleep(10)
+    time.sleep(3)
+    driver.find_element(By.XPATH, '//div[text()="{}"]'.format(target)).click()
+    time.sleep(2)
     return driver
-
 
 if __name__ == '__main__':
     logo = r'''
