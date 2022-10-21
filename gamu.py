@@ -44,16 +44,16 @@ def login(username, password):
     return driver
 
 def search(target):
-    
-    driver.find_element(By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
-    #clearing notifiation thingy and searching
-    WebDriverWait(driver, 25).until(EC.element_to_be_clickable((By.XPATH, '//button[text()="Not Now"]'))).click()
-    driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/div/div/div[1]/div[1]/section/nav/div[2]/div/div/div[2]/input').send_keys(target)
-    time.sleep(10)
-    WebDriverWait(driver, 15).until(driver.find_element(By.CSS_SELECTOR, '#mount_0_0_Ia > div > div > div > div.bdao358l.om3e55n1.g4tp4svg > div > div > div > div.alzwoclg.cqf1kptm.p1t2w4gn.fawcizw8.om3e55n1.g4tp4svg > div:nth-child(1) > section > nav > div._acc1._acc3 > div > div > div._aawf._aawg._aexm > div._abn- > div > div._aa61 > div > div._abn_ > a')).click()
-    time.sleep(10)
+    WebDriverWait(driver, 25).until(EC.element_to_be_clickable(
+        (By.XPATH, '//button[text()="Not Now"]'))).click()
+    time.sleep(2)
+    driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
+    time.sleep(3)
+    driver.find_element(By.CSS_SELECTOR, "[aria-label='Search input']").send_keys(target)
+    time.sleep(3)
+    driver.find_element(By.XPATH, '//div[text()="{}"]'.format(target)).click()
+    time.sleep(2)
     return driver
-    
     
 
 if __name__ == '__main__':

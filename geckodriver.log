@@ -1,0 +1,1270 @@
+1664294307655	geckodriver	INFO	Listening on 127.0.0.1:52077
+1664294310736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile8sQGzv"
+1664294311268	Marionette	INFO	Marionette enabled
+1664294311278	Marionette	INFO	Listening on port 52088
+Read port: 52088
+WebDriver BiDi listening on ws://127.0.0.1:52078
+1664294311485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile8sQGzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52078/devtools/browser/a1d913b9-77a4-488e-89ea-3de5acc789a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1664352217179	geckodriver	INFO	Listening on 127.0.0.1:59423
+1664352220321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile31xY0E"
+1664352220945	Marionette	INFO	Marionette enabled
+1664352220956	Marionette	INFO	Listening on port 59433
+Read port: 59433
+WebDriver BiDi listening on ws://127.0.0.1:59424
+1664352221190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile31xY0E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59424/devtools/browser/3f489955-d112-4fd5-84b3-482ebaffc82f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/ya/l/en_US/wVO2-s69M2d.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.cdninstagram.com/rsrc.php/v3/ym/l/0,cross/0M92rpyWQFcIxmGSmKHn32-xG72e5XfwaYjP1pW_aAht.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1611:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:875:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:720:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:350:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:203:10\ninspectNode@resource://devtools/client/framework/devtools.js:798:25\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967299/pagestyle25, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: ({})
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.warn: ({})
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/yP/l/en_US/tvdnsEAxpb4.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php1664352384462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileHPiHwm"
+1664352385113	Marionette	INFO	Marionette enabled
+1664352385122	Marionette	INFO	Listening on port 59505
+Read port: 59505
+WebDriver BiDi listening on ws://127.0.0.1:59494
+1664352385436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664352471116	geckodriver	INFO	Listening on 127.0.0.1:59523
+1664352474176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiXAaTg"
+1664352474755	Marionette	INFO	Marionette enabled
+1664352474764	Marionette	INFO	Listening on port 59533
+Read port: 59533
+WebDriver BiDi listening on ws://127.0.0.1:59524
+1664352475011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiXAaTg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59524/devtools/browser/51899d87-ffa8-4ef1-95a2-a51297cab435
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664352569122	Marionette	INFO	Stopped listening on port 59533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664352587273	geckodriver	INFO	Listening on 127.0.0.1:59548
+1664352590313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilepOS8iJ"
+1664352590900	Marionette	INFO	Marionette enabled
+1664352590910	Marionette	INFO	Listening on port 59558
+Read port: 59558
+WebDriver BiDi listening on ws://127.0.0.1:59549
+1664352591118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilepOS8iJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59549/devtools/browser/995bac0a-30f2-4a54-abce-3272c2d6aee9
+1664352837221	Marionette	INFO	Stopped listening on port 59558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354709098	geckodriver	INFO	Listening on 127.0.0.1:57143
+1664354712186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem4NoWL"
+1664354713040	Marionette	INFO	Marionette enabled
+1664354713053	Marionette	INFO	Listening on port 57156
+Read port: 57156
+WebDriver BiDi listening on ws://127.0.0.1:57144
+1664354713326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem4NoWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57144/devtools/browser/5cbe527f-63a8-4c6b-969e-0b21cf0d0c14
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: https://www.instagram.com/, line 288: Error: Requiring unknown module "73".
+1664355454198	Marionette	INFO	Stopped listening on port 57156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664358781567	geckodriver	INFO	Listening on 127.0.0.1:52004
+1664358784687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileNlNJWi"
+1664358785315	Marionette	INFO	Marionette enabled
+1664358785328	Marionette	INFO	Listening on port 52014
+Read port: 52014
+WebDriver BiDi listening on ws://127.0.0.1:52005
+1664358785540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileNlNJWi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52005/devtools/browser/fdf40f51-0e28-4910-aa38-64ea81c1682c
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664359088203	geckodriver	INFO	Listening on 127.0.0.1:52177
+1664359091282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileIZ6cx5"
+1664359091852	Marionette	INFO	Marionette enabled
+1664359091862	Marionette	INFO	Listening on port 52187
+Read port: 52187
+WebDriver BiDi listening on ws://127.0.0.1:52178
+1664359092107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileIZ6cx5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52178/devtools/browser/5b04edde-69ad-430d-9103-c050b7cfc2e2
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664359114453	Marionette	INFO	Stopped listening on port 52187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664437517908	geckodriver	INFO	Listening on 127.0.0.1:50231
+1664437521046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile9c39O1"
+1664437521669	Marionette	INFO	Marionette enabled
+1664437521686	Marionette	INFO	Listening on port 50241
+Read port: 50241
+WebDriver BiDi listening on ws://127.0.0.1:50232
+1664437521914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile9c39O1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50232/devtools/browser/3c2dbab9-5222-4c52-88c7-57bade089fee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 965))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:965:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1678:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2352))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967302/pagestyle23 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 384))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1664438452939	Marionette	INFO	Stopped listening on port 50241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ertificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileGohIxu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50454/devtools/browser/1152205f-d042-404c-baa0-2804b7a33b1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664438453767	Marionette	INFO	Stopped listening on port 50464
+4438361062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilev3iNaz"
+1664438361610	Marionette	INFO	Marionette enabled
+1664438361620	Marionette	INFO	Listening on port 63763
+WebDriver BiDi listening on ws://127.0.0.1:63754
+Read port: 63763
+1664438362016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilev3iNaz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63754/devtools/browser/9e1e92da-ae72-4beb-a3c9-fe08ca8f09c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664438448785	Marionette	INFO	Stopped listening on port 63763
+1664438462444	geckodriver	INFO	Listening on 127.0.0.1:63830
+1664438465504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileBJ8jOy"
+1664438466262	Marionette	INFO	Marionette enabled
+1664438466276	Marionette	INFO	Listening on port 63840
+WebDriver BiDi listening on ws://127.0.0.1:63831
+Read port: 63840
+1664438466650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileBJ8jOy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63831/devtools/browser/1a251327-73cf-48bd-a939-7fea9357a4b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664438631160	Marionette	INFO	Stopped listening on port 63840
+1664438636208	geckodriver	INFO	Listening on 127.0.0.1:63929
+1664438639268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiler62TrP"
+1664438639847	Marionette	INFO	Marionette enabled
+1664438639857	Marionette	INFO	Listening on port 63940
+Read port: 63940
+WebDriver BiDi listening on ws://127.0.0.1:63930
+1664438640061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiler62TrP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63930/devtools/browser/3a09ded3-dc59-4269-ae6b-68ebab6f0ed5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bD2V1yF27SqeqYvgyYYSPdiNu290SHC9vzB8BmtCvBI.js line 2 > eval line 4656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664441530852	Marionette	INFO	Stopped listening on port 64410
+ https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds iJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664443791263	Marionette	INFO	Stopped listening on port 64513
+dtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-1664441528636	Marionette	INFO	Stopped listening on port 64895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2352))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: 1664448613279	Marionette	INFO	Stopped listening on port 49209
+nts-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/aJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664443885793	Marionette	INFO	Stopped listening on port 49501
+lenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: https://www.endtest.io/blog/a-practical-guide-for-finding-elements-with-selenium, line 172: TypeError: bounds is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://selenium-python.readthedocs.io."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bD2V1yF27SqeqYvgyYYSPdiNu290SHC9vzB8BmtCvBI.js line 2 > eval line 4243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664448612175	Marionette	INFO	Stopped listening on port 63940
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 11280, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+ginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664443982323	Marionette	INFO	Stopped listening on port 49615
+\\rust_mozprofileBaDzgn"
+1664443979223	Marionette	INFO	Marionette enabled
+1664443979233	Marionette	INFO	Listening on port 49710
+Read port: 49710
+WebDriver BiDi listening on ws://127.0.0.1:49701
+1664443979419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileBaDzgn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49701/devtools/browser/a2d8da3a-fd6d-40fd-891f-5be1af013ca3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bD2V1yF27SqeqYvgyYYSPdiNu290SHC9vzB8BmtCvBI.js line 2 > eval line 3374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bD2V1yF27SqeqYvgyYYSPdiNu290SHC9vzB8BmtCvBI.js line 2 > eval line 4755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bD2V1yF27SqeqYvgyYYSPdiNu290SHC9vzB8BmtCvBI.js line 2 > eval line 3959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664444666336	Marionette	INFO	Stopped listening on port 49710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileYXCyeY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49820/devtools/browser/afe7c56b-cead-4f40-8760-7136fe6c3fd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967300"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664444546421	Marionette	INFO	Stopped listening on port 49829
+[Parent 3552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664446244639	Marionette	INFO	Stopped listening on port 50115
+\\rust_mozprofile9ThZwA"
+1664446239779	Marionette	INFO	Marionette enabled
+1664446239790	Marionette	INFO	Listening on port 50411
+Read port: 50411
+WebDriver BiDi listening on ws://127.0.0.1:50402
+1664446240029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile9ThZwA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50402/devtools/browser/ffc26c46-0d9c-44c7-8cfb-0c7014cf4903
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6DL4/y5/l/en_US/wL158IFVOIV.js?_nc_x=Ij3Wp8lg5Kz, line 1231: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.8188efe8505267400a47.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.reddit.com%3Fid%3Dauth554466&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&prompt=select_account&client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fwww.reddit.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 3669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.reddit.com%3Fid%3Dauth554466&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&prompt=select_account&client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fwww.reddit.com&fetch_basic_profile=true&gsiwebsdk=2 line 2 > eval line 4666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fwww.reddit.com%3Fid%3Dauth554466&response_type=permission+id_token&scope=email+profile+openid&openid.realm&include_granted_scopes=true&prompt=select_account&client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fwww.reddit.com&fetch_basic_profile=true&gsiwebsdk=2&flowName=GeneralOAuthFlow line 2 > eval line 3334 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664448607783	Marionette	INFO	Stopped listening on port 50411
+ment
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iWa-4/yB/l/en_US/kMVEHATm9T-.js?_nc_x=Ij3Wp8lg5Kz, line 43: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664448615974	Marionette	INFO	Stopped listening on port 50525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665308020662	geckodriver	INFO	Listening on 127.0.0.1:52103
+1665308023817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile2RuS5t"
+1665308059130	geckodriver	INFO	Listening on 127.0.0.1:52139
+1665308062220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiletIG78Z"
+1665308062825	Marionette	INFO	Marionette enabled
+1665308062835	Marionette	INFO	Listening on port 52149
+Read port: 52149
+WebDriver BiDi listening on ws://127.0.0.1:52140
+1665308063034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiletIG78Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52140/devtools/browser/5659d3e6-2842-4c2a-8fd1-1bbe5915a786
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1665308276669	geckodriver	INFO	Listening on 127.0.0.1:52259
+1665308279726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile1zu3L4"
+1665308280509	Marionette	INFO	Marionette enabled
+1665308280526	Marionette	INFO	Listening on port 52269
+Read port: 52269
+WebDriver BiDi listening on ws://127.0.0.1:52260
+1665308280794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile1zu3L4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52260/devtools/browser/b20992f9-62fb-40e9-9237-402b681600f0
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1665308483638	Marionette	INFO	Stopped listening on port 52269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666273828091	geckodriver	INFO	Listening on 127.0.0.1:51291
+1666273831197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilesgo31k"
+1666273832292	Marionette	INFO	Marionette enabled
+1666273832304	Marionette	INFO	Listening on port 51301
+Read port: 51301
+WebDriver BiDi listening on ws://127.0.0.1:51292
+1666273832528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilesgo31k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51292/devtools/browser/489b5b72-4701-41cc-9883-a79957365ac9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666274418231	Marionette	INFO	Stopped listening on port 51301
+\\rust_mozprofile33BhZr"
+1666273953069	Marionette	INFO	Marionette enabled
+1666273953081	Marionette	INFO	Listening on port 55931
+Read port: 55931
+WebDriver BiDi listening on ws://127.0.0.1:55922
+1666273953297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile33BhZr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55922/devtools/browser/dcb7ef0c-e745-44f3-b534-35afc3804a99
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iosN4/y9/l/en_US/7tqpSwfUye6.js?_nc_x=Ij3Wp8lg5Kz, line 1805: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3D%2BMessage%253A%2BUnable%2Bto%2Blocate%2Belement%253A%2B.__aaw9&q=EgTFm-KOGLyoxZoGIhAWt_XAO4bg0dbKnsovmh6dMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi, line 2537: Script terminated by timeout at:
+s_nqo.prototype.ka@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:2537:282
+s_.LOa@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:350:216
+s_.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:348:388
+s_Cpo@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:2480:497
+s_hqo/<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:2524:246
+s_lna@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:345:214
+s_ina@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:345:265
+b@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.rU_ZCF5XIT8.O/am=ggBQQcAA8AIAkAEAyAygAAAAAACAAgAwBiD4_wQAAqgJYmiAMgkgBAAEpvQDAAAQAwAggAMCEAAAAMBHwgcAzhwAAAws4QIAAAAAAAAAULAlCAYukAgIAAQAAAAAAECqNNH6zBUAAQ/d=1/ed=1/dg=2/rs=ACT90oHnQ6dP1d_LAJAs5iBPWGjiof06zA/m=attn,cdos,cr,dpf,hsm,jsa,d,csi:342:272
+
+1666274412291	Marionette	INFO	Stopped listening on port 55931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666357516947	geckodriver	INFO	Listening on 127.0.0.1:56980
+1666357520013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilenkN0Lc"
+1666357520794	Marionette	INFO	Marionette enabled
+1666357520809	Marionette	INFO	Listening on port 56995
+Read port: 56995
+WebDriver BiDi listening on ws://127.0.0.1:56981
+1666357521082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilenkN0Lc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56981/devtools/browser/bdf22f91-a9b4-4560-8338-d2f08e1a879a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666358280197	geckodriver	INFO	Listening on 127.0.0.1:50209
+1666358283273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile0Y3AqT"
+1666358284620	Marionette	INFO	Marionette enabled
+1666358284632	Marionette	INFO	Listening on port 50222
+Read port: 50222
+WebDriver BiDi listening on ws://127.0.0.1:50210
+1666358284993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile0Y3AqT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50210/devtools/browser/963b476e-ed14-48f3-9662-152977e91fbd
+1666358293347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666358320056	geckodriver	INFO	Listening on 127.0.0.1:51018
+1666358323088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileykv5eQ"
+1666358324148	Marionette	INFO	Marionette enabled
+1666358324185	Marionette	INFO	Listening on port 51035
+Read port: 51035
+WebDriver BiDi listening on ws://127.0.0.1:51019
+1666358324549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileykv5eQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51019/devtools/browser/7a4ed6b1-1d86-48e8-8265-996f97a0efd3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666358394675	geckodriver	INFO	Listening on 127.0.0.1:52592
+1666358397723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile9GSHRb"
+1666358398640	Marionette	INFO	Marionette enabled
+1666358398659	Marionette	INFO	Listening on port 52604
+Read port: 52604
+WebDriver BiDi listening on ws://127.0.0.1:52593
+1666358398942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile9GSHRb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52593/devtools/browser/45c91506-0f9e-4752-b2c9-8e0c2001587e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666358452333	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666358465103	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666358577209	geckodriver	INFO	Listening on 127.0.0.1:50341
+1666358580200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileBMgjVB"
+1666358581455	Marionette	INFO	Marionette enabled
+1666358581466	Marionette	INFO	Listening on port 50355
+Read port: 50355
+WebDriver BiDi listening on ws://127.0.0.1:50342
+1666358581799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileBMgjVB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50342/devtools/browser/b1afefdc-e619-4538-b814-6c3a1ee95187
+1666358644406	geckodriver	INFO	Listening on 127.0.0.1:61927
+1666358647440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilewG6BIG"
+1666358648496	Marionette	INFO	Marionette enabled
+1666358648509	Marionette	INFO	Listening on port 61943
+Read port: 61943
+WebDriver BiDi listening on ws://127.0.0.1:61928
+1666358648868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilewG6BIG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61928/devtools/browser/0e276447-452d-4524-a334-88fa071d7a87
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3Dhow%2Bto%2Bselect%2Ban%2Belement%2Bby%2Baria-label%2Bselenium%2Bpython&q=EgTFm-KOGNO7ypoGIhCRa1-NncNURtEZISe6FfdAMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666359675879	Marionette	INFO	Stopped listening on port 61943
+e-debugging-port" "52050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileUb9a3S"
+1666358960721	Marionette	INFO	Marionette enabled
+1666358960732	Marionette	INFO	Listening on port 52065
+Read port: 52065
+WebDriver BiDi listening on ws://127.0.0.1:52050
+1666358961101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileUb9a3S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52050/devtools/browser/3d4fe6ec-66ec-4318-9b2e-e340d60d8a84
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666359676735	Marionette	INFO	Stopped listening on port 52065
+\\rust_mozprofileMXktMX"
+1666359082165	Marionette	INFO	Marionette enabled
+1666359082175	Marionette	INFO	Listening on port 52418
+Read port: 52418
+WebDriver BiDi listening on ws://127.0.0.1:52401
+1666359082551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileMXktMX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52401/devtools/browser/5ff7f92e-2733-452a-aab1-a4f4578d76ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666360092959	Marionette	INFO	Stopped listening on port 52418
+\\rust_mozprofileR8pdTZ"
+1666359586427	Marionette	INFO	Marionette enabled
+1666359586436	Marionette	INFO	Listening on port 64147
+Read port: 64147
+WebDriver BiDi listening on ws://127.0.0.1:64124
+1666359586831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileR8pdTZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64124/devtools/browser/cd00b3ac-d99e-4c3d-b464-02e9449c8b42
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3Dhow%2Bto%2Blocate%2Belement%2Bwith%2Bspecific%2Btext%2Bselenium%2Bpython&q=EgTFm-KOGITFypoGIhCEkW_fj5SGRxdtKcUmqGYNMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileMwe528\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62585/devtools/browser/2de7f219-f121-467f-817d-4621b7a8428d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666360097119	Marionette	INFO	Stopped listening on port 62603
+6360092702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilewlIskz"
+1666360093949	Marionette	INFO	Marionette enabled
+1666360093961	Marionette	INFO	Listening on port 63700
+Read port: 63700
+WebDriver BiDi listening on ws://127.0.0.1:63682
+1666360094321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilewlIskz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63682/devtools/browser/9f911b1c-ee60-4227-8dd6-447a52d7c51a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iq7v4/yh/l/en_US/BiZZRiucoXH.js?_nc_x=Ij3Wp8lg5Kz, line 1821: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yF/l/en_US/MM9wWhuqosl.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 72: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
