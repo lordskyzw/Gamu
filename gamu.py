@@ -54,11 +54,17 @@ class Gamu():
         #driver.find_element(
             #By.XPATH, '/html/body/div[1]/section/main/div/div/div/div/button').click()
         # clearing notifiation thingy and searching
-        WebDriverWait(driver, 25).until(EC.element_to_be_clickable(
-            (By.XPATH, '//button[text()="Not Now"]'))).click()
-        time.sleep(2)
-        driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
-        time.sleep(3)
+        try:
+            WebDriverWait(driver, 25).until(EC.element_to_be_clickable(
+                (By.XPATH, '//button[text()="Not Now"]'))).click()
+            time.sleep(2)
+        except exceptions.NoSuchElementException:
+            pass
+        try:
+            driver.find_element(By.XPATH, '//button[text()="Not Now"]').click()
+            time.sleep(3)
+        except exceptions.NoSuchElementException:
+            pass
         try:
             driver.find_element(By.XPATH, "/html/body/div[2]/div/div/div/div[1]/div/div/div/div[1]/div[1]/div[1]/div/div/div/div/div[2]/div[2]/div/a/div/div[2]/div/div").click()
         except exceptions.NoSuchElementException:
