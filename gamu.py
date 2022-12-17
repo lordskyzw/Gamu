@@ -84,33 +84,27 @@ class Gamu():
         latestpost.click()
         WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '//div[text()="others"]')))
         driver.find_element(By.XPATH, '//div[text()="others"]').click()
-        ns_resolver = {
-        "prefix1": "http://namespace1.com",
-        "prefix2": "http://namespace2.com"
-        }
+        
         try:
             # Continuously scroll the page until it reaches the bottom
-            while True:
-                # Scroll the page
-                #driver.execute_script(
-                    #"const scrolldialogue = document.evaluate('/html/body/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div', document, XPathResult.FIRST_ORDERED_NODE_TYPE, null,).singleNodeValue;"
-                    #"scrolldialogue.scrollTop += 100;")
-                notFollowed = driver.find_elements(By.XPATH, '//div[text()="follow"]')
-                if notFollowed:
-                    for _ in notFollowed:
-                        _.click()
-                        time.sleep(1)
-                else:
-                    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div')))
-                    driver.execute_script(
-                    "const scrolldialogue = document.evaluate('/html/body/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;"
-                    "scrolldialogue.scrollTop += 100;")
+            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div')))
+            
+            scrollscript = "const scrolldialogue = document.evaluate('/html/body/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;"
+            "scrolldialogue.scrollTop += 100;"
+            
+            driver.execute_script(scrollscript)
+            time.sleep(2)
+            #notFollowed = driver.find_element(By.XPATH, "//*[contains(text(), 'Follow')]")
+            #notFollowed.click()
+            #for _ in notFollowed:
+            #    _.click()
+            #    time.sleep(1)
+                
                         
                         
                     
         except exceptions.NoSuchElementException:
-             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-             driver.find_element(By.XPATH, '//div[text()="follow"]').click()
+             driver.find_element(By.XPATH, "//*[contains(text(), 'Follow')]").click()
             
             
         

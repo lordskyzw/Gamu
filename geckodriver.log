@@ -2248,3 +2248,431 @@ JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670777376344	geckodriver	INFO	Listening on 127.0.0.1:59451
+1670777379415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem2oiRb"
+1670777379956	Marionette	INFO	Marionette enabled
+1670777379966	Marionette	INFO	Listening on port 59468
+Read port: 59468
+WebDriver BiDi listening on ws://127.0.0.1:59452
+1670777380160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilem2oiRb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59452/devtools/browser/ce00606a-8efa-44ec-b09e-4da5fd9113ef
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670780243025	geckodriver	INFO	Listening on 127.0.0.1:12348
+1670780246090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileCaHCfH"
+1670780246635	Marionette	INFO	Marionette enabled
+1670780246645	Marionette	INFO	Listening on port 12361
+Read port: 12361
+WebDriver BiDi listening on ws://127.0.0.1:12349
+1670780246860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileCaHCfH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12349/devtools/browser/6b9b39a6-2e2d-47d9-a7c7-a1abb2eb7259
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670780319496	geckodriver	INFO	Listening on 127.0.0.1:12600
+1670780322541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile3euZnx"
+1670780323094	Marionette	INFO	Marionette enabled
+1670780323104	Marionette	INFO	Listening on port 12613
+WebDriver BiDi listening on ws://127.0.0.1:12601
+Read port: 12613
+1670780323544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile3euZnx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12601/devtools/browser/65701fd2-3953-46d1-82aa-4afa74793c2e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670780380849	geckodriver	INFO	Listening on 127.0.0.1:12773
+1670780383910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileAmreKM"
+1670780384481	Marionette	INFO	Marionette enabled
+1670780384490	Marionette	INFO	Listening on port 12786
+Read port: 12786
+WebDriver BiDi listening on ws://127.0.0.1:12774
+1670780384753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileAmreKM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12774/devtools/browser/043f5975-5e63-4dd8-bcb7-605aac6cae2b
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670780520151	geckodriver	INFO	Listening on 127.0.0.1:13324
+1670780523187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile0wgkRT"
+1670780523833	Marionette	INFO	Marionette enabled
+1670780523844	Marionette	INFO	Listening on port 13346
+Read port: 13346
+WebDriver BiDi listening on ws://127.0.0.1:13325
+1670780524076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile0wgkRT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13325/devtools/browser/c2c4f429-25d2-4a4d-9d10-9978e122e1aa
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670780625123	geckodriver	INFO	Listening on 127.0.0.1:13657
+1670780628185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileA9PhQn"
+1670780628725	Marionette	INFO	Marionette enabled
+1670780628734	Marionette	INFO	Listening on port 13682
+Read port: 13682
+WebDriver BiDi listening on ws://127.0.0.1:13658
+1670780628947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileA9PhQn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13658/devtools/browser/f561ead6-1bfc-41c0-91ec-9beb3ea09fc6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781410090	geckodriver	INFO	Listening on 127.0.0.1:31597
+1670781413145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileI8vezE"
+1670781413696	Marionette	INFO	Marionette enabled
+1670781413706	Marionette	INFO	Listening on port 31610
+WebDriver BiDi listening on ws://127.0.0.1:31598
+Read port: 31610
+1670781414110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileI8vezE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31598/devtools/browser/f9c0470b-7608-4d48-9294-a97f46412968
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781546022	geckodriver	INFO	Listening on 127.0.0.1:31766
+1670781549052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileDBzEBs"
+1670781549703	Marionette	INFO	Marionette enabled
+1670781549713	Marionette	INFO	Listening on port 31780
+Read port: 31780
+WebDriver BiDi listening on ws://127.0.0.1:31767
+1670781549940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileDBzEBs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31767/devtools/browser/23fba9d7-cd47-4051-827e-aeea6508f83e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781671054	geckodriver	INFO	Listening on 127.0.0.1:31998
+1670781674094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileexKeCa"
+1670781674878	Marionette	INFO	Marionette enabled
+1670781674895	Marionette	INFO	Listening on port 32014
+Read port: 32014
+WebDriver BiDi listening on ws://127.0.0.1:31999
+1670781675175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileexKeCa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:31999/devtools/browser/47e3fc2a-de44-45c1-aa2b-a01e039f84c4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781835184	geckodriver	INFO	Listening on 127.0.0.1:32325
+1670781838245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiqtWEZ"
+1670781838839	Marionette	INFO	Marionette enabled
+1670781838849	Marionette	INFO	Listening on port 32340
+Read port: 32340
+WebDriver BiDi listening on ws://127.0.0.1:32326
+1670781839070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiqtWEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32326/devtools/browser/3db520c3-31c0-4875-9407-30bc8b72dae4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781913646	geckodriver	INFO	Listening on 127.0.0.1:32441
+1670781916674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiles8doNH"
+1670781917425	Marionette	INFO	Marionette enabled
+1670781917437	Marionette	INFO	Listening on port 32453
+Read port: 32453
+WebDriver BiDi listening on ws://127.0.0.1:32442
+1670781917718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiles8doNH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32442/devtools/browser/825509fd-8f1a-4aea-9217-4b563744ddd9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670781987021	geckodriver	INFO	Listening on 127.0.0.1:32618
+1670781990059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "32619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileI7zbUb"
+1670781990805	Marionette	INFO	Marionette enabled
+1670781990818	Marionette	INFO	Listening on port 32642
+Read port: 32642
+WebDriver BiDi listening on ws://127.0.0.1:32619
+1670781991063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileI7zbUb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32619/devtools/browser/8d3ae95c-59f5-4326-ab62-253f4b17c1fa
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 70: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1670782586452	geckodriver	INFO	Listening on 127.0.0.1:33132
+1670782589526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileJRtAS1"
+1670782590143	Marionette	INFO	Marionette enabled
+1670782590154	Marionette	INFO	Listening on port 33142
+Read port: 33142
+WebDriver BiDi listening on ws://127.0.0.1:33133
+1670782590358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileJRtAS1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33133/devtools/browser/ae6e59dd-302f-418c-87ec-94bdca7a3c23
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 70: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+1670782817541	geckodriver	INFO	Listening on 127.0.0.1:33446
+1670782820568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileQkEcVK"
+1670782821827	Marionette	INFO	Marionette enabled
+1670782821841	Marionette	INFO	Listening on port 33463
+Read port: 33463
+WebDriver BiDi listening on ws://127.0.0.1:33447
+1670782822235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileQkEcVK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33447/devtools/browser/08f306b8-7e72-497e-9c08-840cc4768d51
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670782842383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670782879912	Marionette	INFO	Stopped listening on port 33461670782880030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33553" "--remote-allow-hosts" "localhost" "*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+ errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofile6jreKk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33553/devtools/browser/f710ed92-524c-4482-978c-a35bd3cdf174
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 70: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 70: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3WpNOUgrN-_pxVw2NAHVNtofer_w6aLb3ZHXGHAM44Y.js line 2 > eval line 1310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670783267069	geckodriver	INFO	Listening on 127.0.0.1:34189
+1670783270123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileN7DgfP"
+1670783270830	Marionette	INFO	Marionette enabled
+1670783270840	Marionette	INFO	Listening on port 34205
+Read port: 34205
+WebDriver BiDi listening on ws://127.0.0.1:34190
+1670783271074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileN7DgfP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34190/devtools/browser/468e0c01-1449-485f-be49-32fc52ebc5cd
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670783980702	Marionette	INFO	Stopped listening on port 34205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "34454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilearJ7iF"
+1670783411494	Marionette	INFO	Marionette enabled
+1670783411509	Marionette	INFO	Listening on port 34477
+Read port: 34477
+WebDriver BiDi listening on ws://127.0.0.1:34454
+1670783411799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilearJ7iF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34454/devtools/browser/24c4e7bf-3422-4f23-ba4a-323d4251b002
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670784026956	geckodriver	INFO	Listening on 127.0.0.1:35368
+1670784029989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiu3e46"
+1670784030741	Marionette	INFO	Marionette enabled
+1670784030762	Marionette	INFO	Listening on port 35380
+Read port: 35380
+WebDriver BiDi listening on ws://127.0.0.1:35369
+1670784031026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofileiu3e46\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35369/devtools/browser/01ba276b-a2fd-4768-9c06-f569a25684e8
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ye/l/en_GB/LHUxA4o6J25.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670793757516	Marionette	INFO	Stopped listening on port 35380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670830224962	geckodriver	INFO	Listening on 127.0.0.1:59277
+1670830228012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilejB7n4T"
+1670830229143	Marionette	INFO	Marionette enabled
+1670830229156	Marionette	INFO	Listening on port 59300
+Read port: 59300
+WebDriver BiDi listening on ws://127.0.0.1:59278
+1670830229437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilejB7n4T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59278/devtools/browser/0d1e52e7-5e0e-44e9-a9c5-938dbce85ec1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670846807267	Marionette	INFO	Stopped listening on port 59300
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670859785962	geckodriver	INFO	Listening on 127.0.0.1:61959
+1670859789009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilex4RMq4"
+1670859790212	Marionette	INFO	Marionette enabled
+1670859790230	Marionette	INFO	Listening on port 61983
+Read port: 61983
+WebDriver BiDi listening on ws://127.0.0.1:61960
+1670859790590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofilex4RMq4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61960/devtools/browser/584a5624-45c2-4073-8f99-16b821ef3abf
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5948 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndi1670860532883	Marionette	INFO	Stopped listening on port 62217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+d will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 7570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 1183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 3094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670860538789	geckodriver	INFO	Listening on 127.0.0.1:47520
+1670860545501	geckodriver	INFO	Listening on 127.0.0.1:47531
+1670860550953	geckodriver	INFO	Listening on 127.0.0.1:47539
+1670860554281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "47540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiletcJ2nz"
+1670860555930	Marionette	INFO	Marionette enabled
+1670860555958	Marionette	INFO	Listening on port 47557
+Read port: 47557
+WebDriver BiDi listening on ws://127.0.0.1:47540
+1670860556416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lords\\AppData\\Local\\Temp\\rust_mozprofiletcJ2nz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47540/devtools/browser/0018c434-02a2-4dab-a9fe-0d70aa07fad9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/y9/l/en_US/fDSwnSLor0b.js?_nc_x=Ij3Wp8lg5Kz, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 6208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 4546 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 1811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 7756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2580 > eval line 1 > eva1670864739904	Marionette	INFO	Stopped listening on port 53967
+[Parent 1656, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+workError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 6849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://page1670864738417	Marionette	INFO	Stopped listening on port 54190
+g_pTqcRvs.js line 2 > eval line 5934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 2171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 6016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_d1670864734183	Marionette	INFO	Stopped listening on port 54360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g_pTqcRvs.js line 2 > eval line 4052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 7556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 3799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 3634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 6635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 4165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 42 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 6528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 3628 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 5115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QDrzY6hqzGh0aYGUuTA1ex70oaN1LFGaXyg_pTqcRvs.js line 2 > eval line 4660 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670864744957	Marionette	INFO	Stopped listening on port 47557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
